@@ -1,0 +1,1 @@
+URL Vulnerability Scanner adalah alat Python yang dirancang untuk memfilter URL dari output waybackurls atau daftar URL lainnya guna mendeteksi potensi celah keamanan. Alat ini mendeteksi berbagai jenis kerentanan seperti SQL Injection, Remote Code Execution (RCE), Local/Remote File Inclusion (LFI/RFI), Directory Traversal, Cross-Site Scripting (XSS), Open Redirect, dan lainnya.
